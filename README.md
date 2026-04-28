@@ -4,7 +4,7 @@
 
 Este projeto implementa um sistema simples de catálogo de veículos utilizando Programação Orientada a Objetos (POO) em Python. O objetivo é simular a estrutura de um sistema de seleção de produtos, aplicando conceitos fundamentais de modelagem de dados e lógica de programação.
 
-#🎯 Objetivo Técnico
+# 🎯 Objetivo Técnico
 
 O projeto foi desenvolvido com foco em:
 
